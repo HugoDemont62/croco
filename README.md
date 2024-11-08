@@ -20,7 +20,7 @@ L'application **Croco** est conçue pour permettre l'écriture et la gestion de 
 L'application est structurée de manière que chaque cours puisse être écrit en Markdown. Voici un exemple de structure de fichier pour un cours :
 
 ## 🔒 Rôles et Permissions
-Seulemet les utilisateurs ayant un compte peuvent lire le cours, avoir pourquoi pas une page principal ou il y a un tarif pour y acceder genre 1 € pour tous les cours
+Seulement les utilisateurs ayant un compte peuvent lire le cours, avoir pourquoi pas une page principal ou il y a un tarif pour y acceder genre 1 € pour tous les cours
 
 ## 🏁 Conclusion
 L'application **Croco** vise à une application qui me permet de mettre mes cours sur le WEB.
